@@ -7,3 +7,5 @@ https://alkim-dot.shinyapps.io/Shiny/
 # Future Steps
 
 I want to hear to voices with clicking the points on the graph without usinig any other additional steps. 
+
+I would like to hear your opinion and advice. I hope you enjoy it.
