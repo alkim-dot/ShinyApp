@@ -7,7 +7,7 @@ library(readxl)
 library(dplyr)
 install.packages("rdrop2")
 library(rdrop2)
-setwd("C:/Users/alkim/Dropbox/ShinyEnvironment")
+setwd("C:/Users/alkim/Dropbox/ShinyApp")
 all_acoustics_10dimensional <- read_excel("all_acoustics_10dimensional.xlsx")
 sounds <- read_excel("sounds.xlsx")
 
