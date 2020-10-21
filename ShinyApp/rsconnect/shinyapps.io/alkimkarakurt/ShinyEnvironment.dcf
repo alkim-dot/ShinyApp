@@ -1,0 +1,12 @@
+name: ShinyEnvironment
+title: ShinyEnvironment
+username:
+account: alkimkarakurt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1667109
+bundleId: 2733855
+url: https://alkimkarakurt.shinyapps.io/ShinyEnvironment/
+when: 1579200943.73667
+asMultiple: FALSE
+asStatic: FALSE
